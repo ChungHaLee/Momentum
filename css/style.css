@@ -132,6 +132,7 @@ body{
             width:540px;
             margin: 0 auto;
         }
+        
         #todo-list li:hover{
             color:rgb(255, 166, 0);
         }
