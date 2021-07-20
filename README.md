@@ -1,6 +1,4 @@
 # Designing Web App
-### 대학원생이 자기계발로 프론트엔드 개발을 공부하면 어떻게 될지 궁금해서 만든 저장소
-
 
 #### **1. Cloning the Chrome App, "Momentum"**
 
