@@ -1,6 +1,6 @@
 # Momentum
 
-Cloning the Chrome App, "Momentum"**
+### **Cloning the Chrome App, "Momentum"**
 
 ![momentum](https://user-images.githubusercontent.com/59073612/126278086-70838817-af40-4606-a3a4-fbd21d434d4b.gif)
 
